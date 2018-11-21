@@ -5,6 +5,6 @@ def square_array(array)
 end
 
 #with map
-def square_array(array)
-  array.map {|element| element*element}
-end
+#def square_array(array)
+#  array.map {|element| element*element}
+#end
